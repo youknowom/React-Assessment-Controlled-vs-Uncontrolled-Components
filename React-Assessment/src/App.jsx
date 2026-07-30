@@ -1,6 +1,6 @@
 import React from "react";
 import Controlled from "./components/Controlled";
-import Uncontrolled from "./Uncontrolled";
+import Uncontrolled from "./components/Uncontrolled";
 
 function App() {
   return (
